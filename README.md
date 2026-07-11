@@ -1,16 +1,25 @@
-## Hi there 👋
+# Sahiel Bose
 
-<!--
-**sahielbose/sahielbose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I study CS & Math at UCLA. I build agentic AI systems and neurotech wearables.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Experience**
+
+- Software Engineer @ OpenSwarm, an Entrepreneur First-backed agentic browser
+- Founder @ Optivia, an agentic task-graph platform for software projects
+- Neurotechnology + Machine Learning Researcher @ ThinkNeuro LLC, building overdose-detection wearables
+
+**Awards**
+
+- 1st Place @ Apify x Scalekit Hackathon: HealthFlow, a multi-agent system that carries an emergency call from 911 dispatch to approved physician orders
+- 2nd Place @ Qualcomm x Meta Hackathon: SixthSense, an on-device wearable that guides blind and low-vision users
+- 2nd Place @ Alameda County Science & Engineering Fair: SignSpeak, real-time ASL recognition
+
+**Patent**
+
+Pending Non-provisional Patent in Neurotech + ML @ ThinkNeuro LLC.
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/sahiel-bose/) · [GitHub](https://github.com/sahielbose) · [sahielbose@g.ucla.edu](mailto:sahielbose@g.ucla.edu)
