@@ -14,7 +14,6 @@ I study CS & Math at UCLA. I build agentic AI systems and neurotech wearables.
 
 - 1st Place @ Apify x Scalekit Hackathon: HealthFlow, a multi-agent system that carries an emergency call from 911 dispatch to approved physician orders
 - 2nd Place @ Qualcomm x Meta Hackathon: SixthSense, an on-device wearable that guides blind and low-vision users
-- 2nd Place @ Alameda County Science & Engineering Fair: SignSpeak, real-time ASL recognition
 
 **Patent**
 
