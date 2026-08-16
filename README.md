@@ -16,4 +16,4 @@ I study CS & Math at UCLA. I build agentic AI systems and neurotech wearables.
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/sahiel-bose/) · [Email](mailto:sahielbose@g.ucla.edu) · [Website](https://www.sahielbose.com))
+[LinkedIn](https://www.linkedin.com/in/sahiel-bose/) · [Email](mailto:sahielbose@g.ucla.edu) · [Website](https://www.sahielbose.com)
