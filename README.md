@@ -1,4 +1,5 @@
 # Sahiel Bose
+
 I study CS & Math at UCLA. I build agentic AI systems, medical AI, and neurotech wearables.
 ---
 - **Research Software Engineer** @ Johns Hopkins University (BodyMaps), medical-AI on 3D CT atlases for early cancer detection
