@@ -5,7 +5,7 @@ I study CS & Math at UCLA. I build agentic AI systems and neurotech wearables.
 ---
 
 - **Founding Engineer** @ OpenSwarm, an Entrepreneur First-backed agentic browser
-- **Neurotechnology + ML Researcher** @ ThinkNeuro LLC, pending non-provisional patent in neurotech + ML
+- **Research Engineer** @ ThinkNeuro LLC, pending non-provisional patent in neurotech + ML
 - Built **[Optivia](https://github.com/Optivia-ai/optivia)**, an agentic task-graph platform (macOS desktop app)
 
 ---
