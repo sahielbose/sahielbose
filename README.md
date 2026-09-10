@@ -4,7 +4,7 @@ I study CS & Math at UCLA. I build agentic AI systems, medical AI, and neurotech
 
 ---
 
-- **Research Software Engineer** @ Johns Hopkins University (BodyMaps), medical-AI on 3D CT atlases for early cancer detection
+- **Research Software Engineer** @ Johns Hopkins University (BodyMaps), medical-AI on 3D CT atlases
 - **Founding Engineer** @ OpenSwarm, an Entrepreneur First-backed agentic browser
 - **Research Engineer** @ ThinkNeuro LLC, pending non-provisional patent in neurotech + ML
 - Built **[Optivia](https://github.com/Optivia-ai/optivia)**, an agentic task-graph platform (macOS desktop app)
